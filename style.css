@@ -15,7 +15,7 @@ a {text-decoration: none;}
 .block1 {
   width: 100%;
   height: auto;
-  background:url(../img/fon.png) no-repeat center; object-fit:cover;
+  background:url(img/fon.png) no-repeat center; object-fit:cover;
 }
 
 header {
@@ -189,18 +189,18 @@ p.but1{
   cursor: pointer;
  }
 
- .foto1 {background-image: url('../img/f1.png');}
+ .foto1 {background-image: url('img/f1.png');}
 
- .foto2 {background-image: url('../img/f2.png');}
+ .foto2 {background-image: url('img/f2.png');}
 
- .foto3 {background-image: url('../img/f3.png');}
+ .foto3 {background-image: url('img/f3.png');}
 
- .foto4 {background-image: url('../img/f4.png');}
+ .foto4 {background-image: url('img/f4.png');}
 
- .foto5 {background-image: url('../img/f5.png');
+ .foto5 {background-image: url('img/f5.png');
 margin-bottom: 70px;}
 
- .foto6 {background-image: url('../img/f6.png');}
+ .foto6 {background-image: url('img/f6.png');}
 
 p.b2-f-p {
   font-weight: 500;
@@ -307,11 +307,11 @@ h2.b4-h2 {
    background-size: cover;
   }
 
-.fo1 {background-image: url('../img/fo1.png');}
+.fo1 {background-image: url('img/fo1.png');}
 
-.fo2 {background-image: url('../img/fo2.png');}
+.fo2 {background-image: url('img/fo2.png');}
 
-.fo3 {background-image: url('../img/fo3.png');}
+.fo3 {background-image: url('img/fo3.png');}
 
 p.b4-f-p {
   width: 70%;
